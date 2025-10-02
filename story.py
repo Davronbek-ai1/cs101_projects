@@ -1,0 +1,1 @@
+print("Hi! My name is Davronbek. I is in a amazing programming class, and this is my exercise for it")
